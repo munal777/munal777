@@ -7,8 +7,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/munal-poudel-7b8954249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com) 
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/munalpoudel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/munal-poudel-7b8954249/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&width=150)](mailto:munalpoudel3@gmail.com)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&width=150)](https://leetcode.com/u/munalpoudel/)
+
 
 
 ## 💻 Languages:
