@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munal Poudel</h1>
 <h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3>
-
-
+<br>
+<br>
 I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.
 
 - 🌍 I'm from **Itahari, Nepal**
@@ -9,6 +9,8 @@ I'm a passionate **Backend developer** who enjoys building creative, user-friend
 - 📚 Always curious to learn and grow in the world of tech
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**
+
+---
 
 ## 🌐 Connect with Me
 
@@ -35,8 +37,8 @@ I'm a passionate **Backend developer** who enjoys building creative, user-friend
 ![](https://github-readme-stats.vercel.app/api?username=munal777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=munal777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=munal777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br><br>
---
+<br>
+---
 
 🔭 I’m currently working on ✈️ **FlyNepal360**  
   A full-featured **Airlines Management System** designed to simplify flight operations, bookings, and passenger management.  
