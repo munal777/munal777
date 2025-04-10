@@ -3,8 +3,15 @@
 
 # 💫 About Me:
 🔭 I’m currently working on ✈️ FlyNepal360 – A full-featured Airlines Management System built using Java Servlets and JSP, designed to simplify flight operations, bookings, and passenger management. ☁️🛫<br><br>
-**📫 How to reach me:** munalpoudel3@gmail.com<br>**⚡ Fun fact:** I  have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉
+**📫 How to reach me:** munalpoudel3@gmail.com<br>
+- ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/munal-poudel-7b8954249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munal-poudel-7b8954249/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/munalpoudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/munalpoudel/" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/munal-poudel-7b8954249/)
