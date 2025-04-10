@@ -2,15 +2,18 @@
 <h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ✈️ FlyNepal360 - A full-featured Airlines Management System designed to simplify flight operations, bookings, and passenger management.<br>🌱 I’m currently learning Java servlet & Jsp<br>📫 How to reach me: munalpoudel3@gmail.com<br>⚡ Fun fact: I  have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉
+🔭 I’m currently working on ✈️ FlyNepal360 – A full-featured Airlines Management System built using Java Servlets and JSP, designed to simplify flight operations, bookings, and passenger management. ☁️🛫<br>
+📫 How to reach me: munalpoudel3@gmail.com<br>⚡ Fun fact: I  have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/munal-poudel-7b8954249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com) 
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/munalpoudel/)
+
 
 ## 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ## 💻 Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ## 🗄️ Databases:
