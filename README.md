@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munal Poudel</h1>
-<h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3>
-<br>
-<br>
+<h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3><br><br>
 I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.<br><br>
 
 - 🌍 I'm from **Itahari, Nepal**
