@@ -2,8 +2,7 @@
 <h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3>
 <br>
 <br>
-I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.
-<br>
+I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.<br><br>
 
 - 🌍 I'm from **Itahari, Nepal**
 - 👨‍💻 Currently exploring **Docker 🐳**, and **Website Hosting 🌐**
@@ -38,6 +37,7 @@ I'm a passionate **Backend developer** who enjoys building creative, user-friend
 ![](https://nirzak-streak-stats.vercel.app/?user=munal777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=munal777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
+
 ---
 
 🔭 I’m currently working on ✈️ **FlyNepal360**  
