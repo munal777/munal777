@@ -3,10 +3,9 @@
 <br>
 <br>
 I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.
-
+<br>
 - 🌍 I'm from **Itahari, Nepal**
 - 👨‍💻 Currently exploring **Docker 🐳**, and **Website Hosting 🌐**
-- 📚 Always curious to learn and grow in the world of tech
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**
 
@@ -46,6 +45,9 @@ I'm a passionate **Backend developer** who enjoys building creative, user-friend
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=munal777&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=munal777&icon=5&color=12)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munal777&label=Profile%20views&color=0e75b6&style=flat" alt="munal777" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
