@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Munal Poudel</h1>
-<h3 align="center">🚀 BSc (Hons) Computing Student | Python & Backend Developer | Tech Explorer</h3><br><br>
+<h3 align="center">🚀 BSc (Hons) Computing Student | Tech Explorer</h3><br><br>
 
-I'm a passionate **Backend developer** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.<br><br>
+I'm a passionate computing student with a strong interest in **backend development** who enjoys building creative, user-friendly, and meaningful applications. I love solving problems with code and exploring modern tech stacks.<br><br>
 
 - 🌍 I'm from **Itahari, Nepal**
-- 👨‍💻 Currently exploring **Docker 🐳**, and **Website Hosting 🌐**
+- 👨‍💻 Currently exploring **Java Servlets & JSP** and **Docker 🐳**
+- 💬 Ask me about **Python, Django & RestFramework**
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**<br>
 
