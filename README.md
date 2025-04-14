@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munal Poudel</h1>
 <h3 align="center">🚀 BSc (Hons) Computing Student | Backend-Focused Full-Stack Learner | Tech Explorer</h3><br><br>
 
-I'm a passionate computing student with a strong foundation in **backend development** and also enjoys working on **React**. I enjoy building creative, user-friendly, and meaningful applications, solving problems with code, and exploring modern tech stacks.<br><br>
+I'm a passionate computing student with a strong foundation in **backend development** and also enjoys working on **React** with building creative, user-friendly, and meaningful applications, solving problems with code, and exploring modern tech stacks.<br><br>
 
 - 👨‍💻 Currently exploring **Java Servlets & JSP** and **Docker 🐳**
 - 💬 Ask me about **Python, Django & REST APIs**
