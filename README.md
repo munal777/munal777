@@ -8,12 +8,6 @@ I'm a passionate computing student with a strong foundation in **backend develop
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**<br>
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munal-poudel-7b8954249/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/munalpoudel/)
-
 ---
 
 ## 💻 Languages:
@@ -39,7 +33,14 @@ I'm a passionate computing student with a strong foundation in **backend develop
 
 ---
 
-🔭 I’m currently working on ✈️ **FlyNepal360**  
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munal-poudel-7b8954249/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/munalpoudel/)
+
+
+🔭 I’m currently working on ✈️ **AeroDoot**  
   A full-featured **Airlines Management System** designed to simplify flight operations, bookings, and passenger management.  
   **Tech Stack:** Java Servlet ☕ + JSP 🧩 + MySQL 🛢️<br>
 <br>
