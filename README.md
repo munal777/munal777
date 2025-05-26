@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4b0082,2e2b8a,0f2027&height=180&section=header&text=Munal%20Poudel&animation=fadeIn&fontSize=42&fontColor=ffffff
-)
+<h1 align="center">Munal Poudel</h1>
 
 <h3 align="center">Aspiring Full-Stack Developer (Backend Specialist) | Tech Explorer</h3><br>
 
@@ -35,7 +34,7 @@
 <summary><b>🗄️ Databases</b></summary>
 <br>
   
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 </details>
 
 <details open>
