@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4b0082,2e2b8a,0f2027&height=180&section=header&text=Munal%20Poudel&animation=fadeIn&fontSize=42&fontColor=ffffff
 )
 
-
-<h3 align="center">🚀 BSc (Hons) Computing Student | Backend-Focused Full-Stack Learner | Tech Explorer</h3><br><br>
+<h3 align="center">Aspiring Full-Stack Developer (Backend Specialist) | Tech Explorer</h3><br>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently exploring **Java Servlets & JSP** and **Docker 🐳**
+- 🌱 Currently exploring **Redis, Celery** and **Docker 🐳**
 - 💬 Ask me about **Python, Django & REST APIs**
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**<br>
@@ -48,9 +47,9 @@
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munal777&show_icons=true&theme=tokyonight&hide_border=true" alt="Munal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=munal777&show_icons=true&theme=tokyonight" alt="Munal's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munal777&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
@@ -66,9 +65,13 @@
 
 ---
 
-## 🌐 Connect with Me
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munal-poudel-7b8954249/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RohanPoudel2024" alt="Visitor Badge" />
+</p>
 
 
