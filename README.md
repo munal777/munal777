@@ -52,21 +52,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munal777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170">
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/munal777">
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=munal777&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3860&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak"/>
-   
   </a>
 </div>
 
 ---
 
 ### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munal-poudel-7b8954249/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munalpoudel3@gmail.com)
+<div align="center">
+<p>
+  <a href="https://linkedin.com/in/munal-poudel-7b8954249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn">
+  </a>
+  <a href="mailto:munalpoudel3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://x.com/munal_poudel">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X">
+  </a>
+</p>
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RohanPoudel2024" alt="Visitor Badge" />
