@@ -69,7 +69,7 @@
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RohanPoudel2024" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=munal777" alt="Visitor Badge" />
 </p>
 
 
