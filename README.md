@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-🌱 Currently exploring **Flutter** and **NEXT.Js**
+- 🌱 Currently exploring **Flutter** and **NEXT.Js**
 - 💬 Ask me about **Python, Django & REST APIs**
 - 📫 Reach me at: **munalpoudel3@gmail.com**
 - ⚡ Fun fact **I have experience as a barista ☕ — where I brewed more than just coffee ☕ — I brewed ideas too 😉**<br>
